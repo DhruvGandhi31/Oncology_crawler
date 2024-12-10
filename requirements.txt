@@ -1,0 +1,7 @@
+requests
+bs4
+PyMySQL
+pymilvus
+torch
+sentence-transformers
+configparser
